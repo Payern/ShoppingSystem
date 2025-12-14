@@ -1,0 +1,8 @@
+# Ignore compiled Java files
+*.class
+
+# Ignore VS Code workspace files
+*.code-workspace
+
+# Ignore system files
+desktop.ini
